@@ -1,7 +1,7 @@
 <h2>How to setup Red Light Women Safety?</h2>
 
 <ul>
-    <li>Clone Project using <strong>git clone </strong></li>
+    <li>Clone Project using <strong>git clone https://github.com/bhattishani/women-safety.git</strong></li>
     <li>Run composer install: <strong>php composer.phar install</strong>. it will install all dependencies</li>
     <li>Clone .env.example file and rename to .env</li>
     <li>Create MySql Database named <strong>redlightwomensafety</strong></li>
