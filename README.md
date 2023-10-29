@@ -1,18 +1,18 @@
 <h2>How to setup Red Light Women Safety?</h2>
 
 <ul>
-    <li>Clone Project using <strong>git clone https://github.com/bhattishani/women-safety.git</strong></li>
-    <li>Run composer install: <strong>php composer.phar install</strong>. it will install all dependencies</li>
+    <li>Clone Project using <code>git clone https://github.com/bhattishani/women-safety.git</code></li>
+    <li>Run composer install: <code>php composer.phar install</code>. it will install all dependencies</li>
     <li>Clone .env.example file and rename to .env</li>
-    <li>Create MySql Database named <strong>redlightwomensafety</strong></li>
-    <li>Run Migration and Seeders: <strong>php artisan migrate:fresh --seed</strong></li>
+    <li>Create MySql Database named <code>redlightwomensafety</code></li>
+    <li>Run Migration and Seeders: <code>php artisan migrate:fresh --seed</code></li>
 </ul>
 
 <h2>Default Admin Credentials:</h2>
 
-<h4>Name: <strong>Admin</strong></h4>
-<h4>Email: <strong>admin@test.com</strong></h4>
-<h4>Password: <strong>123456</strong></h4>
+<h4>Name: <code>Admin</code></h4>
+<h4>Email: <code>admin@test.com</code></h4>
+<h4>Password: <code>123456</code></h4>
 
 <h2>Version Info:</h2>
 
